@@ -7,7 +7,7 @@ Este proyecto consiste en desarrollar un sistema básico de gestión de producto
 
 El programa permite agregar nuevos productos, modificar precios existentes y visualizar todos los productos registrados. La interacción se realiza mediante un menú en consola que facilita la gestión de la información de forma clara y organizada.
 
-Este proyecto simula el funcionamiento elemental de un sistema de inventario, reforzando la importancia de validar datos correctamente, especialmente cuando se trabaja con valores numéricos como precios. Además, promueve una estructura modular del código mediante el uso de funciones independientes para cada operación, lo que mejora la legibilidad, el mantenimiento y la escalabilidad del sistema.
+Este proyecto simula el funcionamiento elemental de un sistema de inventario, reforzando la importancia de validar datos correctamente, especialmente cuando se trabaja con valores numéricos como precios. Además, promueve una estructura modular del código mediante el uso de funciones independientes para cada operación, lo que mejora la legibilidad, el mantenimiento y la escalabilidad.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
